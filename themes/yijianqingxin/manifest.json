@@ -1,14 +1,14 @@
 {
   "id": "yijianqingxin",
   "name": "一见倾心",
-  "version": "2",
+  "version": "3",
   "files": [
     { "name": "scene-01.jpg", "url": "scene-01.jpg", "sha256": "5688BF13612268F1C8E0D4FF7D3C4F2E159D0426736AB7F1259BBE32238F925B" },
     { "name": "scene-02.jpg", "url": "scene-02.jpg", "sha256": "DE310F03FD35BF840927F587806476BEF154C248EBB9A6FFD3F4C398B00505B5" },
     { "name": "scene-03.jpg", "url": "scene-03.jpg", "sha256": "B2A5CC1FEC3C59529C545854050BA4D747A34D0C39614F9BEF2AC8B45F7399A5" },
     { "name": "scene-04.jpg", "url": "scene-04.jpg", "sha256": "64FC75D71CB4B3EE550B4948A9E3491C604F4EC2783AA6F5E701D5D541AA0354" },
     { "name": "scene-05.jpg", "url": "scene-05.jpg", "sha256": "62A48EE191C5953FE211D541AAAFA885E18DBDCF80E75CF4E72682A4DCBF2F9D" },
-    { "name": "scene-06.jpg", "url": "scene-06.jpg", "sha256": "FD8C249573695809A6F95EFAB9D971D3A0DB8FC8B5B24488BF2653FFD38EB75E" },
+    { "name": "scene-06.jpg", "url": "scene-06.jpg", "sha256": "E884D3CB1FC81F189378AA6B28CD69372B9BDE7E862E9D62319AB7FBC888F93C" },
     { "name": "scene-07.jpg", "url": "scene-07.jpg", "sha256": "62AB59A65F551C0E7A6684C07DD7E079805ED3626CCCF18AB3BC207C157D7F2C" },
     { "name": "scene-08.jpg", "url": "scene-08.jpg", "sha256": "41AE812ABAD0749555EA15A450EFB5F584E4AFED506DC6E11F1E26E8535B08ED" },
     { "name": "scene-09.jpg", "url": "scene-09.jpg", "sha256": "661BEFC52B22B518ECDCEADFA799EC4B801B30F60E057AB40B050BFA45649507" },
