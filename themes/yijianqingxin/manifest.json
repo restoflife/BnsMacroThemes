@@ -1,27 +1,19 @@
 {
   "id": "yijianqingxin",
   "name": "一见倾心",
-  "version": "1",
+  "version": "2",
   "files": [
-    {
-      "name": "scene-01.jpg",
-      "url": "scene-01.jpg",
-      "sha256": "5451E68BE7375CF730BF1914E3D1B5502AA56A4F4071EB3B154227FA90AFD540"
-    },
-    {
-      "name": "scene-02.jpg",
-      "url": "scene-02.jpg",
-      "sha256": "68D1C3076B2993D05C6ACB90BE824BD7EE644E02DC72FF87CF1E623D9FFAD747"
-    },
-    {
-      "name": "scene-03.jpg",
-      "url": "scene-03.jpg",
-      "sha256": "D56C977DC713F917178752CD0A7EFB0596A048B20E158747504C424BF7BB8653"
-    },
-    {
-      "name": "scene-04.jpg",
-      "url": "scene-04.jpg",
-      "sha256": "51A9B5950ACFA62E4E7EAF519B603843745D7B62DABD39070B63643B2CD22733"
-    }
+    { "name": "scene-01.jpg", "url": "scene-01.jpg", "sha256": "5688BF13612268F1C8E0D4FF7D3C4F2E159D0426736AB7F1259BBE32238F925B" },
+    { "name": "scene-02.jpg", "url": "scene-02.jpg", "sha256": "DE310F03FD35BF840927F587806476BEF154C248EBB9A6FFD3F4C398B00505B5" },
+    { "name": "scene-03.jpg", "url": "scene-03.jpg", "sha256": "B2A5CC1FEC3C59529C545854050BA4D747A34D0C39614F9BEF2AC8B45F7399A5" },
+    { "name": "scene-04.jpg", "url": "scene-04.jpg", "sha256": "64FC75D71CB4B3EE550B4948A9E3491C604F4EC2783AA6F5E701D5D541AA0354" },
+    { "name": "scene-05.jpg", "url": "scene-05.jpg", "sha256": "62A48EE191C5953FE211D541AAAFA885E18DBDCF80E75CF4E72682A4DCBF2F9D" },
+    { "name": "scene-06.jpg", "url": "scene-06.jpg", "sha256": "FD8C249573695809A6F95EFAB9D971D3A0DB8FC8B5B24488BF2653FFD38EB75E" },
+    { "name": "scene-07.jpg", "url": "scene-07.jpg", "sha256": "62AB59A65F551C0E7A6684C07DD7E079805ED3626CCCF18AB3BC207C157D7F2C" },
+    { "name": "scene-08.jpg", "url": "scene-08.jpg", "sha256": "41AE812ABAD0749555EA15A450EFB5F584E4AFED506DC6E11F1E26E8535B08ED" },
+    { "name": "scene-09.jpg", "url": "scene-09.jpg", "sha256": "661BEFC52B22B518ECDCEADFA799EC4B801B30F60E057AB40B050BFA45649507" },
+    { "name": "scene-10.jpg", "url": "scene-10.jpg", "sha256": "174911746353E2D0F9DE4522625A9A4AA286276DCA972CF2EBB98814458285A9" },
+    { "name": "scene-11.jpg", "url": "scene-11.jpg", "sha256": "AC5ECF2EF4D9345586EF5E399AB000641F20305E11BE25265E1F8380AD7A8EEE" },
+    { "name": "scene-12.jpg", "url": "scene-12.jpg", "sha256": "9B8B5C7C3B3996B3E8C82D996C2AB12EFE87F17410CAB8E68373975FB8E7387D" }
   ]
 }
