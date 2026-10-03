@@ -1,0 +1,27 @@
+{
+  "id": "yijianqingxin",
+  "name": "一见倾心",
+  "version": "1",
+  "files": [
+    {
+      "name": "scene-01.jpg",
+      "url": "scene-01.jpg",
+      "sha256": "5451E68BE7375CF730BF1914E3D1B5502AA56A4F4071EB3B154227FA90AFD540"
+    },
+    {
+      "name": "scene-02.jpg",
+      "url": "scene-02.jpg",
+      "sha256": "68D1C3076B2993D05C6ACB90BE824BD7EE644E02DC72FF87CF1E623D9FFAD747"
+    },
+    {
+      "name": "scene-03.jpg",
+      "url": "scene-03.jpg",
+      "sha256": "D56C977DC713F917178752CD0A7EFB0596A048B20E158747504C424BF7BB8653"
+    },
+    {
+      "name": "scene-04.jpg",
+      "url": "scene-04.jpg",
+      "sha256": "51A9B5950ACFA62E4E7EAF519B603843745D7B62DABD39070B63643B2CD22733"
+    }
+  ]
+}
