@@ -1,0 +1,21 @@
+{
+  "version": "1",
+  "themes": [
+    {
+      "id": "yijianqingxin",
+      "name": "一见倾心",
+      "version": "3",
+      "description": "十二张唯美过图图片",
+      "imageCount": 12,
+      "manifest": "yijianqingxin/manifest.json"
+    },
+    {
+      "id": "lingmaihuanjing",
+      "name": "灵脉幻境",
+      "version": "1",
+      "description": "东方武侠与灵气幻想",
+      "imageCount": 12,
+      "manifest": "lingmaihuanjing/manifest.json"
+    }
+  ]
+}
