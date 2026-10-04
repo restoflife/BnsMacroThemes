@@ -16,6 +16,14 @@
       "description": "东方武侠与灵气幻想",
       "imageCount": 12,
       "manifest": "lingmaihuanjing/manifest.json"
+    },
+    {
+      "id": "xian-ni",
+      "name": "仙逆",
+      "version": "1",
+      "description": "王林与仙逆群像主题",
+      "imageCount": 24,
+      "manifest": "xian-ni/manifest.json"
     }
   ]
 }
