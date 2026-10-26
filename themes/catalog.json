@@ -1,29 +1,29 @@
 {
-  "version": "1",
+  "version": "4",
   "themes": [
     {
       "id": "yijianqingxin",
       "name": "一见倾心",
-      "version": "3",
+      "version": "5",
       "description": "十二张唯美过图图片",
       "imageCount": 12,
       "manifest": "yijianqingxin/manifest.json"
     },
     {
-      "id": "lingmaihuanjing",
-      "name": "灵脉幻境",
-      "version": "1",
-      "description": "东方武侠与灵气幻想",
-      "imageCount": 12,
-      "manifest": "lingmaihuanjing/manifest.json"
-    },
-    {
       "id": "xian-ni",
       "name": "仙逆",
-      "version": "1",
+      "version": "2",
       "description": "王林与仙逆群像主题",
       "imageCount": 24,
       "manifest": "xian-ni/manifest.json"
+    },
+    {
+      "id": "qiyue-huashang",
+      "name": "绮月华裳",
+      "version": "2",
+      "description": "绮月华裳成熟性感主题",
+      "imageCount": 24,
+      "manifest": "qiyue-huashang/manifest.json"
     }
   ]
 }
