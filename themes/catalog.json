@@ -1,5 +1,5 @@
 {
-  "version": "4",
+  "version": "5",
   "themes": [
     {
       "id": "yijianqingxin",
@@ -24,6 +24,14 @@
       "description": "绮月华裳成熟性感主题",
       "imageCount": 24,
       "manifest": "qiyue-huashang/manifest.json"
+    },
+    {
+      "id": "qijing-fanghua",
+      "name": "绮境芳华",
+      "version": "1",
+      "description": "二十四张东方奇幻电影感成熟华裳主题",
+      "imageCount": 24,
+      "manifest": "qijing-fanghua/manifest.json"
     }
   ]
 }
