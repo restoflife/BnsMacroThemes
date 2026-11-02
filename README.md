@@ -69,8 +69,3 @@ generate-all-theme-manifests.*  清单生成入口
 - `-MarkPublished` 会把当前目录及全部主题版本写入 `published-versions.json`，应只在正式发布确认后执行。
 - `-NoVersionBump` 与 `-MarkPublished` 不能同时使用。
 - 删除主题目录后重新生成清单，会将对应项目从目录中移除；执行前应确认客户端兼容和缓存处理。
-
-## 相关仓库
-
-- [`restoflife/BnsMacro`](https://github.com/restoflife/BnsMacro)：读取本仓库目录、下载并校验主题的主程序。
-- [`restoflife/limuxuan-update`](https://github.com/restoflife/limuxuan-update)：主程序正式版本附件。
